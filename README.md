@@ -1,3 +1,3 @@
 Hi there! I am currently a third-year Computer Science Co-op Student at McMaster University. My goal as an engineering student is to utilize my programming skills in practical and professional settings and to connect and network with other individuals who are just as curious and optimistic as I am. You can check out some of my repositories for the past projects I've done so far. I'm still kind of new to GitHub, but I am willing to learn along the way!
 
-<img src="backpack.jpeg" style="border: 5px color:#F09310;" width="100" height="100">
+<div style="text-align: center;"><img src="backpack.jpeg" style="border: 5px solid #F4FFED;" width="150" height="150"></div>
